@@ -5,4 +5,8 @@
 print("Data Types For Python")
 
 # Intergers Python
-print("\nintergers")
+print("\nIntergers")
+
+1 + 2
+x = 1 + 2
+print(f"x is equal to {x}")
